@@ -4,3 +4,8 @@ __pycache__
 .hypothesis/
 build/
 reports/
+front_end/
+front_end/build
+front_end/node_modules
+.vscode
+.pytest_cache
